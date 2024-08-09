@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.6] 2024-08-05
+
+### Automatic update
+- `toolshed.g2.bx.psu.edu/repos/iuc/yahs/yahs/1.2a.2+galaxy1` was updated to `toolshed.g2.bx.psu.edu/repos/iuc/yahs/yahs/1.2a.2+galaxy2`
+
+## [0.2.5] 2024-07-31
+
+- Addition of Workflow report
+
 ## [0.2.4] 2024-05-20
 
 ### Automatic update
